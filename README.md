@@ -7,7 +7,7 @@ This project shows how to create a 7 segment display shield for an Arduino UNO.
 ![Picture](https://github.com/MarcDeepThought/DIY_7segment_Arduino_UNO_shield/blob/main/Media/03_Shield_with_Arduino.jpg)
 *** 
 
-##Material list:
+## Material list:
 
 - [ ] Arduino UNO
 - [ ] 4X6 prototype PCB (printed circuit board) Universal Board
