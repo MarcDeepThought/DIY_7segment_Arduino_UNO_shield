@@ -1,7 +1,8 @@
 /**
  * This Sketh is showing the number 0-9 one after another on a 7 segment display.
  */
-const int ANODE = 11;   // common anode pin
+const int ANODEUNITS = 11;   // common anode pin
+const int ANODETENS = 12;   // common anode pin
 
 const int LedA = 8;  // top
 const int LedB = 9;   // top right  
@@ -17,7 +18,8 @@ const int LedDP = 7;  // decimal point
 int DELAY = 0;        // so it happens only 3 times
 
 void setup() {
-  pinMode(ANODE, OUTPUT);  // common anode is obviously an output
+  pinMode(ANODEUNITS, OUTPUT);  // common anode is obviously an output
+  pinMode(ANODETENS, OUTPUT);  // common anode is obviously an output
 
   pinMode(LedA, OUTPUT);
   pinMode(LedB, OUTPUT);
@@ -27,14 +29,21 @@ void setup() {
   pinMode(LedF, OUTPUT);
   pinMode(LedG, OUTPUT);
   pinMode(LedDP, OUTPUT);
+  reset();
 }
 
 void loop(){
-  digitalWrite(ANODE, HIGH); // anode is recieving power
-
+  digitalWrite(ANODEUNITS, HIGH); // anode is recieving power
+  digitalWrite(ANODETENS, LOW);
+  showNumber();
+  digitalWrite(ANODEUNITS, LOW);
+  digitalWrite(ANODETENS, HIGH); // anode is recieving power
+  showNumber();
   
+}
 
-delay(1000);   // delays before starting
+void showNumber() {
+  delay(1000);   // delays before starting
 
   // 0
   digitalWrite(LedA, LOW);

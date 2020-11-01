@@ -1,0 +1,1663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='900' height='1050'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE></TITLE>
+			<AUTHOR></AUTHOR>
+			<REVISION>1.0</REVISION>
+			<DOCNUMBER></DOCNUMBER>
+			<ORGANISATION></ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>0</SHOWS>
+			<DATE></DATE>
+			<GRID spacing='25.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-11</HEIGHT>
+			<WIDTH>5</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-17</HEIGHT>
+			<WIDTH>16</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-32</HEIGHT>
+			<WIDTH>11</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='7'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='8'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='9'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='10'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='11'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='12'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='12'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='13'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='14'>
+			<STYLE>2</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='15'>
+			<STYLE>0</STYLE>
+			<COLOR>C0C0C0</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='16'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='17'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='18'>
+			<STYLE>0</STYLE>
+			<COLOR>808080</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='19'>
+			<STYLE>0</STYLE>
+			<COLOR>FFFFFF</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='20'>
+			<STYLE>0</STYLE>
+			<COLOR>FFFFFF</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='21'>
+			<STYLE>4</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='22'>
+			<STYLE>1</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='1'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='4'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='6'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='8'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='10'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='11'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='12'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='13'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='15'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='16'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='17'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='18'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='19'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='20'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='21'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='22'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='23'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='25'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='27'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='28'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='29'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='30'>
+			<INDEX>3</INDEX>
+			<COLOR>80FF80</COLOR>
+		</FILL>
+		<FILL id='31'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='33'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='34'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='35'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='36'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='37'>
+			<INDEX>3</INDEX>
+			<COLOR>80FF80</COLOR>
+		</FILL>
+		<FILL id='39'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='40'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='41'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='42'>
+			<INDEX>2</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<ELLIPSE a='75.00000,123.50000' b='79.00000,127.50000' style='12' fill='18'/>
+		<RECTANGLE a='8.00000,23.50000' b='109.00000,95.50000' style='13' fill='37'/>
+		<ELLIPSE a='104.00000,90.00000' b='108.00000,94.00000' style='12' fill='40'/>
+		<ELLIPSE a='104.00000,85.00000' b='108.00000,89.00000' style='12' fill='3'/>
+		<ELLIPSE a='104.00000,80.00000' b='108.00000,84.00000' style='12' fill='21'/>
+		<ELLIPSE a='104.00000,75.00000' b='108.00000,79.00000' style='12' fill='3'/>
+		<ELLIPSE a='104.00000,40.00000' b='108.00000,44.00000' style='12' fill='36'/>
+		<ELLIPSE a='104.00000,35.00000' b='108.00000,39.00000' style='12' fill='3'/>
+		<ELLIPSE a='104.00000,30.00000' b='108.00000,34.00000' style='12' fill='21'/>
+		<ELLIPSE a='104.00000,25.00000' b='108.00000,29.00000' style='12' fill='3'/>
+		<TEXT pos='4.50000,28.50000' direction='3' font='4' color='000000'>13</TEXT>
+		<TEXT pos='4.50000,38.50000' direction='3' font='4' color='000000'>11</TEXT>
+		<TEXT pos='4.50000,33.00000' direction='3' font='4' color='000000'>12</TEXT>
+		<TEXT pos='111.00000,69.00000' direction='3' font='4' color='000000'>5</TEXT>
+		<TEXT pos='111.00000,73.50000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='111.00000,28.50000' direction='3' font='4' color='000000'>13</TEXT>
+		<TEXT pos='40.00000,99.00000' direction='3' font='4' color='000000'>G</TEXT>
+		<TEXT pos='35.00000,99.00000' direction='3' font='4' color='000000'>F</TEXT>
+		<TEXT pos='30.00000,99.00000' direction='3' font='4' color='000000'>E</TEXT>
+		<ELLIPSE a='8.50000,39.50000' b='13.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,89.50000' b='13.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,29.50000' b='13.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,34.50000' b='13.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,39.50000' b='18.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,89.50000' b='18.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,24.50000' b='13.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,29.50000' b='18.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,39.50000' b='23.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,89.50000' b='23.50000,94.50000' style='14' fill='0'/>
+		<TEXT pos='5.00000,17.00000' direction='3' font='6' color='000000'>Circuit Board Layout (top side)</TEXT>
+		<RECTANGLE a='-82.00000,95.50000' b='-80.50000,97.00000' style='15' fill='0'/>
+		<TEXT pos='-83.50000,98.00000' direction='3' font='5' color='000000'>~</TEXT>
+		<RECTANGLE a='-82.00000,97.50000' b='-80.50000,99.00000' style='15' fill='0'/>
+		<TEXT pos='-83.50000,100.00000' direction='3' font='5' color='000000'>~</TEXT>
+		<ELLIPSE a='8.50000,84.50000' b='13.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,84.50000' b='18.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,84.50000' b='23.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,79.50000' b='13.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,79.50000' b='18.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,79.50000' b='23.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,74.50000' b='13.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,74.50000' b='18.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,74.50000' b='23.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,69.50000' b='13.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,69.50000' b='18.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,69.50000' b='23.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,64.50000' b='13.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,64.50000' b='18.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,64.50000' b='23.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,59.50000' b='13.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,59.50000' b='18.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,59.50000' b='23.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,54.50000' b='13.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,54.50000' b='18.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,54.50000' b='23.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,49.50000' b='13.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,49.50000' b='18.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,49.50000' b='23.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='8.50000,44.50000' b='13.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,44.50000' b='18.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,44.50000' b='23.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,34.50000' b='18.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,29.50000' b='23.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='13.50000,24.50000' b='18.50000,29.50000' style='14' fill='0'/>
+		<TEXT pos='85.50000,99.00000' direction='3' font='4' color='000000'>P</TEXT>
+		<TEXT pos='10.00000,99.00000' direction='3' font='4' color='000000'>A</TEXT>
+		<TEXT pos='15.50000,99.00000' direction='3' font='4' color='000000'>B</TEXT>
+		<TEXT pos='20.50000,99.00000' direction='3' font='4' color='000000'>C</TEXT>
+		<TEXT pos='25.50000,99.00000' direction='3' font='4' color='000000'>D</TEXT>
+		<TEXT pos='45.50000,99.00000' direction='3' font='4' color='000000'>H</TEXT>
+		<TEXT pos='50.50000,99.00000' direction='3' font='4' color='000000'>I</TEXT>
+		<TEXT pos='55.50000,99.00000' direction='3' font='4' color='000000'>J</TEXT>
+		<TEXT pos='60.50000,99.00000' direction='3' font='4' color='000000'>K</TEXT>
+		<TEXT pos='65.50000,99.00000' direction='3' font='4' color='000000'>L</TEXT>
+		<TEXT pos='70.50000,99.00000' direction='3' font='4' color='000000'>M</TEXT>
+		<TEXT pos='75.50000,99.00000' direction='3' font='4' color='000000'>N</TEXT>
+		<TEXT pos='80.00000,99.00000' direction='3' font='4' color='000000'>O</TEXT>
+		<TEXT pos='90.50000,99.00000' direction='3' font='4' color='000000'>Q</TEXT>
+		<TEXT pos='95.50000,99.00000' direction='3' font='4' color='000000'>R</TEXT>
+		<TEXT pos='100.50000,99.00000' direction='3' font='4' color='000000'>S</TEXT>
+		<TEXT pos='105.50000,99.00000' direction='3' font='4' color='000000'>T</TEXT>
+		<TEXT pos='39.50000,22.50000' direction='3' font='4' color='000000'>G</TEXT>
+		<TEXT pos='34.50000,22.50000' direction='3' font='4' color='000000'>F</TEXT>
+		<TEXT pos='29.50000,22.50000' direction='3' font='4' color='000000'>E</TEXT>
+		<TEXT pos='85.00000,22.50000' direction='3' font='4' color='000000'>P</TEXT>
+		<TEXT pos='9.50000,22.50000' direction='3' font='4' color='000000'>A</TEXT>
+		<TEXT pos='15.00000,22.50000' direction='3' font='4' color='000000'>B</TEXT>
+		<TEXT pos='20.00000,22.50000' direction='3' font='4' color='000000'>C</TEXT>
+		<TEXT pos='25.00000,22.50000' direction='3' font='4' color='000000'>D</TEXT>
+		<TEXT pos='45.00000,22.50000' direction='3' font='4' color='000000'>H</TEXT>
+		<TEXT pos='50.00000,22.50000' direction='3' font='4' color='000000'>I</TEXT>
+		<TEXT pos='55.00000,22.50000' direction='3' font='4' color='000000'>J</TEXT>
+		<TEXT pos='60.00000,22.50000' direction='3' font='4' color='000000'>K</TEXT>
+		<TEXT pos='65.00000,22.50000' direction='3' font='4' color='000000'>L</TEXT>
+		<TEXT pos='70.00000,22.50000' direction='3' font='4' color='000000'>M</TEXT>
+		<TEXT pos='75.00000,22.50000' direction='3' font='4' color='000000'>N</TEXT>
+		<TEXT pos='79.50000,22.50000' direction='3' font='4' color='000000'>O</TEXT>
+		<TEXT pos='90.00000,22.50000' direction='3' font='4' color='000000'>Q</TEXT>
+		<TEXT pos='95.00000,22.50000' direction='3' font='4' color='000000'>R</TEXT>
+		<TEXT pos='100.00000,22.50000' direction='3' font='4' color='000000'>S</TEXT>
+		<TEXT pos='105.00000,22.50000' direction='3' font='4' color='000000'>T</TEXT>
+		<TEXT pos='111.00000,93.00000' direction='3' font='4' color='000000'>0</TEXT>
+		<TEXT pos='111.00000,88.50000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='111.00000,83.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='111.00000,78.50000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='111.00000,63.00000' direction='3' font='4' color='000000'>6</TEXT>
+		<TEXT pos='111.00000,58.50000' direction='3' font='4' color='000000'>7</TEXT>
+		<TEXT pos='111.00000,53.00000' direction='3' font='4' color='000000'>8</TEXT>
+		<TEXT pos='111.00000,48.50000' direction='3' font='4' color='000000'>9</TEXT>
+		<TEXT pos='111.00000,43.00000' direction='3' font='4' color='000000'>10</TEXT>
+		<TEXT pos='111.00000,38.50000' direction='3' font='4' color='000000'>11</TEXT>
+		<TEXT pos='111.00000,32.50000' direction='3' font='4' color='000000'>12</TEXT>
+		<TEXT pos='5.50000,69.00000' direction='3' font='4' color='000000'>5</TEXT>
+		<TEXT pos='5.50000,73.50000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='5.50000,93.00000' direction='3' font='4' color='000000'>0</TEXT>
+		<TEXT pos='5.50000,88.50000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='5.50000,83.00000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='5.50000,78.50000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='5.50000,63.00000' direction='3' font='4' color='000000'>6</TEXT>
+		<TEXT pos='5.50000,58.50000' direction='3' font='4' color='000000'>7</TEXT>
+		<TEXT pos='5.50000,53.00000' direction='3' font='4' color='000000'>8</TEXT>
+		<TEXT pos='5.50000,48.50000' direction='3' font='4' color='000000'>9</TEXT>
+		<TEXT pos='4.50000,43.00000' direction='3' font='4' color='000000'>10</TEXT>
+		<ELLIPSE a='18.50000,34.50000' b='23.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='18.50000,24.50000' b='23.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,39.50000' b='28.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,89.50000' b='28.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,29.50000' b='28.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,34.50000' b='28.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,39.50000' b='33.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,89.50000' b='33.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,24.50000' b='28.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,29.50000' b='33.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,39.50000' b='38.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,89.50000' b='38.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,84.50000' b='28.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,84.50000' b='33.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,84.50000' b='38.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,79.50000' b='28.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,79.50000' b='33.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,79.50000' b='38.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,74.50000' b='28.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,74.50000' b='33.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,74.50000' b='38.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,69.50000' b='28.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,69.50000' b='33.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,69.50000' b='38.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,64.50000' b='28.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,64.50000' b='33.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,64.50000' b='38.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,59.50000' b='28.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,59.50000' b='33.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,59.50000' b='38.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,54.50000' b='28.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,54.50000' b='33.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,54.50000' b='38.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,49.50000' b='28.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,49.50000' b='33.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,49.50000' b='38.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='23.50000,44.50000' b='28.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,44.50000' b='33.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,44.50000' b='38.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,34.50000' b='33.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,29.50000' b='38.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='28.50000,24.50000' b='33.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,34.50000' b='38.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='33.50000,24.50000' b='38.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,39.50000' b='43.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,89.50000' b='43.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,29.50000' b='43.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,34.50000' b='43.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,39.50000' b='48.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,89.50000' b='48.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,24.50000' b='43.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,29.50000' b='48.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,39.50000' b='53.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,89.50000' b='53.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,84.50000' b='43.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,84.50000' b='48.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,84.50000' b='53.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,79.50000' b='43.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,79.50000' b='48.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,79.50000' b='53.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,74.50000' b='43.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,74.50000' b='48.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,74.50000' b='53.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,69.50000' b='43.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,69.50000' b='48.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,69.50000' b='53.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,64.50000' b='43.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,64.50000' b='48.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,64.50000' b='53.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,59.50000' b='43.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,59.50000' b='48.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,59.50000' b='53.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,54.50000' b='43.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,54.50000' b='48.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,54.50000' b='53.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,49.50000' b='43.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,49.50000' b='48.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,49.50000' b='53.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='38.50000,44.50000' b='43.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,44.50000' b='48.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,44.50000' b='53.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,34.50000' b='48.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,29.50000' b='53.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='43.50000,24.50000' b='48.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,34.50000' b='53.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='48.50000,24.50000' b='53.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,39.50000' b='58.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,89.50000' b='58.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,29.50000' b='58.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,34.50000' b='58.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,39.50000' b='63.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,89.50000' b='63.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,24.50000' b='58.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,29.50000' b='63.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,39.50000' b='68.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,89.50000' b='68.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,84.50000' b='58.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,84.50000' b='63.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,84.50000' b='68.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,79.50000' b='58.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,79.50000' b='63.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,79.50000' b='68.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,74.50000' b='58.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,74.50000' b='63.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,74.50000' b='68.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,69.50000' b='58.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,69.50000' b='63.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,69.50000' b='68.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,64.50000' b='58.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,64.50000' b='63.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,64.50000' b='68.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,59.50000' b='58.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,59.50000' b='63.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,59.50000' b='68.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,54.50000' b='58.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,54.50000' b='63.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,54.50000' b='68.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,49.50000' b='58.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,49.50000' b='63.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,49.50000' b='68.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='53.50000,44.50000' b='58.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,44.50000' b='63.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,44.50000' b='68.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,34.50000' b='63.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,29.50000' b='68.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='58.50000,24.50000' b='63.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,34.50000' b='68.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='63.50000,24.50000' b='68.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,39.50000' b='73.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,89.50000' b='73.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,29.50000' b='73.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,34.50000' b='73.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,39.50000' b='78.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,89.50000' b='78.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,24.50000' b='73.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,29.50000' b='78.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,39.50000' b='83.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,89.50000' b='83.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,84.50000' b='73.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,84.50000' b='78.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,84.50000' b='83.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,79.50000' b='73.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,79.50000' b='78.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,79.50000' b='83.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,74.50000' b='73.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,74.50000' b='78.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,74.50000' b='83.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,69.50000' b='73.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,69.50000' b='78.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,69.50000' b='83.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,64.50000' b='73.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,64.50000' b='78.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,64.50000' b='83.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,59.50000' b='73.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,59.50000' b='78.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,59.50000' b='83.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,54.50000' b='73.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,54.50000' b='78.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,54.50000' b='83.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,49.50000' b='73.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,49.50000' b='78.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,49.50000' b='83.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='68.50000,44.50000' b='73.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,44.50000' b='78.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,44.50000' b='83.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,34.50000' b='78.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,29.50000' b='83.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='73.50000,24.50000' b='78.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,34.50000' b='83.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='78.50000,24.50000' b='83.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,39.50000' b='88.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,89.50000' b='88.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,29.50000' b='88.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,34.50000' b='88.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,39.50000' b='93.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,89.50000' b='93.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,24.50000' b='88.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,29.50000' b='93.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,39.50000' b='98.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,89.50000' b='98.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,84.50000' b='88.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,84.50000' b='93.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,84.50000' b='98.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,79.50000' b='88.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,79.50000' b='93.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,79.50000' b='98.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,74.50000' b='88.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,74.50000' b='93.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,74.50000' b='98.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,69.50000' b='88.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,69.50000' b='93.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,69.50000' b='98.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,64.50000' b='88.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,64.50000' b='93.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,64.50000' b='98.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,59.50000' b='88.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,59.50000' b='93.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,59.50000' b='98.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,54.50000' b='88.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,54.50000' b='93.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,54.50000' b='98.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,49.50000' b='88.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,49.50000' b='93.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,49.50000' b='98.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='83.50000,44.50000' b='88.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,44.50000' b='93.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,44.50000' b='98.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,34.50000' b='93.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,29.50000' b='98.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='88.50000,24.50000' b='93.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,34.50000' b='98.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='93.50000,24.50000' b='98.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,39.50000' b='103.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,89.50000' b='103.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,29.50000' b='103.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,34.50000' b='103.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,39.50000' b='108.50000,44.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,89.50000' b='108.50000,94.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,24.50000' b='103.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,29.50000' b='108.50000,34.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,84.50000' b='103.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,84.50000' b='108.50000,89.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,79.50000' b='103.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,79.50000' b='108.50000,84.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,74.50000' b='103.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,74.50000' b='108.50000,79.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,69.50000' b='103.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,69.50000' b='108.50000,74.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,64.50000' b='103.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,64.50000' b='108.50000,69.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,59.50000' b='103.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,59.50000' b='108.50000,64.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,54.50000' b='103.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,54.50000' b='108.50000,59.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,49.50000' b='103.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,49.50000' b='108.50000,54.50000' style='14' fill='0'/>
+		<ELLIPSE a='98.50000,44.50000' b='103.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,44.50000' b='108.50000,49.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,34.50000' b='108.50000,39.50000' style='14' fill='0'/>
+		<ELLIPSE a='103.50000,24.50000' b='108.50000,29.50000' style='14' fill='0'/>
+		<ELLIPSE a='80.00000,31.00000' b='82.00000,33.00000' style='12' fill='22'/>
+		<ELLIPSE a='95.00000,31.00000' b='97.00000,33.00000' style='12' fill='22'/>
+		<POLYGON pos='81.40000,32.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='14.20983,0.00000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='83.00000,30.00000' b='94.50000,34.00000' style='12' fill='21'/>
+		<TEXT pos='87.50000,33.00000' direction='3' font='4' color='000000'>R2</TEXT>
+		<ELLIPSE a='80.00000,26.00000' b='82.00000,28.00000' style='12' fill='22'/>
+		<ELLIPSE a='95.00000,26.00000' b='97.00000,28.00000' style='12' fill='22'/>
+		<POLYGON pos='81.00000,27.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='14.10983,0.00000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='83.00000,25.00000' b='94.50000,29.00000' style='12' fill='21'/>
+		<TEXT pos='87.50000,28.00000' direction='3' font='4' color='000000'>R1</TEXT>
+		<POLYGON pos='51.00000,77.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='29.60983,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='31.00000,82.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='39.60983,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='36.00000,87.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='30.10983,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='56.40000,47.00000' style='17' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='19.70983,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='51.00000,42.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='19.60983,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='46.00000,37.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='19.60983,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='65.00000,86.00000' b='67.00000,88.00000' style='12' fill='22'/>
+		<ELLIPSE a='35.00000,86.00000' b='37.00000,88.00000' style='12' fill='22'/>
+		<ELLIPSE a='70.00000,81.00000' b='72.00000,83.00000' style='12' fill='22'/>
+		<ELLIPSE a='30.00000,81.00000' b='32.00000,83.00000' style='12' fill='22'/>
+		<ELLIPSE a='80.00000,76.00000' b='82.00000,78.00000' style='12' fill='22'/>
+		<ELLIPSE a='49.50000,76.00000' b='51.50000,78.00000' style='12' fill='4'/>
+		<ELLIPSE a='55.00000,46.00000' b='57.00000,48.00000' style='12' fill='22'/>
+		<ELLIPSE a='75.00000,46.00000' b='77.00000,48.00000' style='12' fill='22'/>
+		<ELLIPSE a='50.00000,41.00000' b='52.00000,43.00000' style='12' fill='22'/>
+		<ELLIPSE a='70.00000,41.00000' b='72.00000,43.00000' style='12' fill='22'/>
+		<ELLIPSE a='65.00000,36.00000' b='67.00000,38.00000' style='12' fill='22'/>
+		<RECTANGLE a='9.00000,122.00000' b='110.00000,194.00000' style='13' fill='30'/>
+		<TEXT pos='5.50000,127.00000' direction='3' font='4' color='000000'>13</TEXT>
+		<TEXT pos='5.50000,137.00000' direction='3' font='4' color='000000'>11</TEXT>
+		<TEXT pos='5.50000,131.50000' direction='3' font='4' color='000000'>12</TEXT>
+		<TEXT pos='112.00000,167.50000' direction='3' font='4' color='000000'>5</TEXT>
+		<TEXT pos='112.00000,172.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='112.00000,127.00000' direction='3' font='4' color='000000'>13</TEXT>
+		<TEXT pos='41.00000,197.50000' direction='3' font='4' color='000000'>N</TEXT>
+		<TEXT pos='36.00000,197.50000' direction='3' font='4' color='000000'>O</TEXT>
+		<TEXT pos='31.00000,197.50000' direction='3' font='4' color='000000'>P</TEXT>
+		<ELLIPSE a='9.50000,138.00000' b='14.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,188.00000' b='14.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,128.00000' b='14.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,133.00000' b='14.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,138.00000' b='19.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,188.00000' b='19.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,123.00000' b='14.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,128.00000' b='19.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,138.00000' b='24.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,188.00000' b='24.50000,193.00000' style='14' fill='0'/>
+		<TEXT pos='6.00000,115.50000' direction='3' font='6' color='000000'>Circuit Board Layout (bottom side)</TEXT>
+		<ELLIPSE a='9.50000,183.00000' b='14.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,183.00000' b='19.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,183.00000' b='24.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,178.00000' b='14.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,178.00000' b='19.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,178.00000' b='24.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,173.00000' b='14.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,173.00000' b='19.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,173.00000' b='24.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,168.00000' b='14.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,168.00000' b='19.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,168.00000' b='24.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,163.00000' b='14.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,163.00000' b='19.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,163.00000' b='24.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,158.00000' b='14.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,158.00000' b='19.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,158.00000' b='24.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,153.00000' b='14.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,153.00000' b='19.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,153.00000' b='24.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,148.00000' b='14.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,148.00000' b='19.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,148.00000' b='24.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='9.50000,143.00000' b='14.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,143.00000' b='19.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,143.00000' b='24.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,133.00000' b='19.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,128.00000' b='24.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='14.50000,123.00000' b='19.50000,128.00000' style='14' fill='0'/>
+		<TEXT pos='86.50000,197.50000' direction='3' font='4' color='000000'>E</TEXT>
+		<TEXT pos='11.00000,197.50000' direction='3' font='4' color='000000'>T</TEXT>
+		<TEXT pos='16.50000,197.50000' direction='3' font='4' color='000000'>S</TEXT>
+		<TEXT pos='21.50000,197.50000' direction='3' font='4' color='000000'>R</TEXT>
+		<TEXT pos='26.50000,197.50000' direction='3' font='4' color='000000'>Q</TEXT>
+		<TEXT pos='46.50000,197.50000' direction='3' font='4' color='000000'>M</TEXT>
+		<TEXT pos='51.50000,197.50000' direction='3' font='4' color='000000'>L</TEXT>
+		<TEXT pos='56.50000,197.50000' direction='3' font='4' color='000000'>K</TEXT>
+		<TEXT pos='61.50000,197.50000' direction='3' font='4' color='000000'>J</TEXT>
+		<TEXT pos='66.50000,197.50000' direction='3' font='4' color='000000'>I</TEXT>
+		<TEXT pos='71.50000,197.50000' direction='3' font='4' color='000000'>H</TEXT>
+		<TEXT pos='76.50000,197.50000' direction='3' font='4' color='000000'>G</TEXT>
+		<TEXT pos='81.00000,197.50000' direction='3' font='4' color='000000'>F</TEXT>
+		<TEXT pos='91.50000,197.50000' direction='3' font='4' color='000000'>D</TEXT>
+		<TEXT pos='96.50000,197.50000' direction='3' font='4' color='000000'>C</TEXT>
+		<TEXT pos='101.50000,197.50000' direction='3' font='4' color='000000'>B</TEXT>
+		<TEXT pos='106.50000,197.50000' direction='3' font='4' color='000000'>A</TEXT>
+		<TEXT pos='41.50000,121.00000' direction='3' font='4' color='000000'>N</TEXT>
+		<TEXT pos='36.00000,121.00000' direction='3' font='4' color='000000'>O</TEXT>
+		<TEXT pos='31.00000,121.00000' direction='3' font='4' color='000000'>P</TEXT>
+		<TEXT pos='86.00000,121.00000' direction='3' font='4' color='000000'>E</TEXT>
+		<TEXT pos='11.50000,121.00000' direction='3' font='4' color='000000'>T</TEXT>
+		<TEXT pos='16.50000,121.00000' direction='3' font='4' color='000000'>S</TEXT>
+		<TEXT pos='21.50000,121.00000' direction='3' font='4' color='000000'>R</TEXT>
+		<TEXT pos='26.00000,121.00000' direction='3' font='4' color='000000'>Q</TEXT>
+		<TEXT pos='46.50000,121.00000' direction='3' font='4' color='000000'>M</TEXT>
+		<TEXT pos='51.50000,121.00000' direction='3' font='4' color='000000'>L</TEXT>
+		<TEXT pos='56.50000,121.00000' direction='3' font='4' color='000000'>K</TEXT>
+		<TEXT pos='61.50000,121.00000' direction='3' font='4' color='000000'>J</TEXT>
+		<TEXT pos='66.50000,121.00000' direction='3' font='4' color='000000'>I</TEXT>
+		<TEXT pos='71.50000,121.00000' direction='3' font='4' color='000000'>H</TEXT>
+		<TEXT pos='76.50000,121.00000' direction='3' font='4' color='000000'>G</TEXT>
+		<TEXT pos='81.50000,121.00000' direction='3' font='4' color='000000'>F</TEXT>
+		<TEXT pos='91.50000,121.00000' direction='3' font='4' color='000000'>D</TEXT>
+		<TEXT pos='96.50000,121.00000' direction='3' font='4' color='000000'>C</TEXT>
+		<TEXT pos='101.50000,121.00000' direction='3' font='4' color='000000'>B</TEXT>
+		<TEXT pos='106.00000,121.00000' direction='3' font='4' color='000000'>A</TEXT>
+		<TEXT pos='112.00000,191.50000' direction='3' font='4' color='000000'>0</TEXT>
+		<TEXT pos='112.00000,187.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='112.00000,181.50000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='112.00000,177.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='112.00000,161.50000' direction='3' font='4' color='000000'>6</TEXT>
+		<TEXT pos='112.00000,157.00000' direction='3' font='4' color='000000'>7</TEXT>
+		<TEXT pos='112.00000,151.50000' direction='3' font='4' color='000000'>8</TEXT>
+		<TEXT pos='112.00000,147.00000' direction='3' font='4' color='000000'>9</TEXT>
+		<TEXT pos='112.00000,141.50000' direction='3' font='4' color='000000'>10</TEXT>
+		<TEXT pos='112.00000,137.00000' direction='3' font='4' color='000000'>11</TEXT>
+		<TEXT pos='112.00000,131.50000' direction='3' font='4' color='000000'>12</TEXT>
+		<TEXT pos='6.50000,167.50000' direction='3' font='4' color='000000'>5</TEXT>
+		<TEXT pos='6.50000,172.00000' direction='3' font='4' color='000000'>4</TEXT>
+		<TEXT pos='6.50000,191.50000' direction='3' font='4' color='000000'>0</TEXT>
+		<TEXT pos='6.50000,187.00000' direction='3' font='4' color='000000'>1</TEXT>
+		<TEXT pos='6.50000,181.50000' direction='3' font='4' color='000000'>2</TEXT>
+		<TEXT pos='6.50000,177.00000' direction='3' font='4' color='000000'>3</TEXT>
+		<TEXT pos='6.50000,161.50000' direction='3' font='4' color='000000'>6</TEXT>
+		<TEXT pos='6.50000,157.00000' direction='3' font='4' color='000000'>7</TEXT>
+		<TEXT pos='6.50000,151.50000' direction='3' font='4' color='000000'>8</TEXT>
+		<TEXT pos='5.50000,147.00000' direction='3' font='4' color='000000'>9</TEXT>
+		<TEXT pos='5.50000,141.50000' direction='3' font='4' color='000000'>10</TEXT>
+		<ELLIPSE a='19.50000,133.00000' b='24.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='19.50000,123.00000' b='24.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,138.00000' b='29.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,188.00000' b='29.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,128.00000' b='29.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,133.00000' b='29.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,138.00000' b='34.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,188.00000' b='34.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,123.00000' b='29.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,128.00000' b='34.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,138.00000' b='39.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,188.00000' b='39.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,183.00000' b='29.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,183.00000' b='34.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,183.00000' b='39.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,178.00000' b='29.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,178.00000' b='34.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,178.00000' b='39.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,173.00000' b='29.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,173.00000' b='34.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,173.00000' b='39.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,168.00000' b='29.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,168.00000' b='34.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,168.00000' b='39.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,163.00000' b='29.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,163.00000' b='34.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,163.00000' b='39.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,158.00000' b='29.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,158.00000' b='34.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,158.00000' b='39.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,153.00000' b='29.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,153.00000' b='34.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,153.00000' b='39.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,148.00000' b='29.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,148.00000' b='34.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,148.00000' b='39.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='24.50000,143.00000' b='29.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,143.00000' b='34.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,143.00000' b='39.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,133.00000' b='34.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,128.00000' b='39.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='29.50000,123.00000' b='34.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,133.00000' b='39.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='34.50000,123.00000' b='39.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,138.00000' b='44.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,188.00000' b='44.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,128.00000' b='44.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,133.00000' b='44.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,138.00000' b='49.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,188.00000' b='49.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,123.00000' b='44.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,128.00000' b='49.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,138.00000' b='54.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,188.00000' b='54.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,183.00000' b='44.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,183.00000' b='49.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,183.00000' b='54.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,178.00000' b='44.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,178.00000' b='49.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,178.00000' b='54.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,173.00000' b='44.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,173.00000' b='49.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,173.00000' b='54.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,168.00000' b='44.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,168.00000' b='49.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,168.00000' b='54.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,163.00000' b='44.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,163.00000' b='49.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,163.00000' b='54.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,158.00000' b='44.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,158.00000' b='49.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,158.00000' b='54.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,153.00000' b='44.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,153.00000' b='49.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,153.00000' b='54.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,148.00000' b='44.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,148.00000' b='49.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,148.00000' b='54.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='39.50000,143.00000' b='44.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,143.00000' b='49.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,143.00000' b='54.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,133.00000' b='49.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,128.00000' b='54.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='44.50000,123.00000' b='49.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,133.00000' b='54.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='49.50000,123.00000' b='54.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,138.00000' b='59.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,188.00000' b='59.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,128.00000' b='59.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,133.00000' b='59.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,138.00000' b='64.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,188.00000' b='64.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,123.00000' b='59.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,128.00000' b='64.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,138.00000' b='69.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,188.00000' b='69.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,183.00000' b='59.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,183.00000' b='64.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,183.00000' b='69.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,178.00000' b='59.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,178.00000' b='64.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,178.00000' b='69.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,173.00000' b='59.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,173.00000' b='64.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,173.00000' b='69.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,168.00000' b='59.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,168.00000' b='64.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,168.00000' b='69.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,163.00000' b='59.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,163.00000' b='64.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,163.00000' b='69.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,158.00000' b='59.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,158.00000' b='64.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,158.00000' b='69.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,153.00000' b='59.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,153.00000' b='64.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,153.00000' b='69.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,148.00000' b='59.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,148.00000' b='64.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,148.00000' b='69.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='54.50000,143.00000' b='59.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,143.00000' b='64.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,143.00000' b='69.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,133.00000' b='64.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,128.00000' b='69.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='59.50000,123.00000' b='64.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,133.00000' b='69.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='64.50000,123.00000' b='69.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,138.00000' b='74.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,188.00000' b='74.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,128.00000' b='74.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,133.00000' b='74.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,138.00000' b='79.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,188.00000' b='79.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,123.00000' b='74.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,128.00000' b='79.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,138.00000' b='84.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,188.00000' b='84.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,183.00000' b='74.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,183.00000' b='79.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,183.00000' b='84.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,178.00000' b='74.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,178.00000' b='79.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,178.00000' b='84.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,173.00000' b='74.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,173.00000' b='79.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,173.00000' b='84.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,168.00000' b='74.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,168.00000' b='79.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,168.00000' b='84.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,163.00000' b='74.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,163.00000' b='84.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,158.00000' b='74.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,158.00000' b='79.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,158.00000' b='84.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,153.00000' b='74.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,153.00000' b='79.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,153.00000' b='84.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,148.00000' b='74.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,148.00000' b='79.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,148.00000' b='84.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='69.50000,143.00000' b='74.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,143.00000' b='79.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,143.00000' b='84.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,133.00000' b='79.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,128.00000' b='84.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,123.00000' b='79.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,133.00000' b='84.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='79.50000,123.00000' b='84.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,138.00000' b='89.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,188.00000' b='89.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,128.00000' b='89.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,133.00000' b='89.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,138.00000' b='94.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,188.00000' b='94.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,123.00000' b='89.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,128.00000' b='94.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,138.00000' b='99.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,188.00000' b='99.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,183.00000' b='89.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,183.00000' b='94.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,183.00000' b='99.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,178.00000' b='89.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,178.00000' b='94.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,178.00000' b='99.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,173.00000' b='89.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,173.00000' b='94.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,173.00000' b='99.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,168.00000' b='89.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,168.00000' b='94.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,168.00000' b='99.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,163.00000' b='89.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,163.00000' b='94.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,163.00000' b='99.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,158.00000' b='89.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,158.00000' b='94.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,153.00000' b='89.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,153.00000' b='94.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,153.00000' b='99.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,148.00000' b='89.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,148.00000' b='94.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,148.00000' b='99.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='84.50000,143.00000' b='89.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,143.00000' b='94.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,143.00000' b='99.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,133.00000' b='94.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,128.00000' b='99.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='89.50000,123.00000' b='94.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,133.00000' b='99.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='94.50000,123.00000' b='99.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,138.00000' b='104.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,188.00000' b='104.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,128.00000' b='104.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,133.00000' b='104.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,138.00000' b='109.50000,143.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,188.00000' b='109.50000,193.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,123.00000' b='104.50000,128.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,128.00000' b='109.50000,133.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,183.00000' b='104.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,183.00000' b='109.50000,188.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,178.00000' b='104.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,178.00000' b='109.50000,183.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,173.00000' b='104.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,173.00000' b='109.50000,178.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,168.00000' b='104.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,168.00000' b='109.50000,173.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,163.00000' b='104.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,163.00000' b='109.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,158.00000' b='104.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,158.00000' b='109.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,153.00000' b='104.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,153.00000' b='109.50000,158.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,148.00000' b='104.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,148.00000' b='109.50000,153.00000' style='14' fill='0'/>
+		<ELLIPSE a='99.50000,143.00000' b='104.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,143.00000' b='109.50000,148.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,133.00000' b='109.50000,138.00000' style='14' fill='0'/>
+		<ELLIPSE a='104.50000,123.00000' b='109.50000,128.00000' style='14' fill='0'/>
+		<RECTANGLE a='13.50000,127.00000' b='10.50000,124.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,132.00000' b='10.50000,129.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,137.00000' b='10.50000,134.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,142.00000' b='10.50000,139.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,147.00000' b='10.50000,144.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,167.00000' b='10.50000,164.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,172.00000' b='10.50000,169.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,177.00000' b='10.50000,174.00000' style='16' fill='40'/>
+		<RECTANGLE a='13.50000,182.00000' b='10.50000,179.00000' style='16' fill='40'/>
+		<ELLIPSE a='20.00000,123.50000' b='24.00000,127.50000' style='12' fill='18'/>
+		<ELLIPSE a='15.00000,123.50000' b='19.00000,127.50000' style='12' fill='21'/>
+		<ELLIPSE a='40.00000,123.50000' b='44.00000,127.50000' style='12' fill='9'/>
+		<ELLIPSE a='35.00000,123.50000' b='39.00000,127.50000' style='12' fill='18'/>
+		<ELLIPSE a='55.00000,123.50000' b='59.00000,127.50000' style='12' fill='9'/>
+		<ELLIPSE a='50.00000,123.50000' b='54.00000,127.50000' style='12' fill='9'/>
+		<ELLIPSE a='45.00000,123.50000' b='49.00000,127.50000' style='12' fill='11'/>
+		<ELLIPSE a='65.00000,123.50000' b='69.00000,127.50000' style='12' fill='9'/>
+		<ELLIPSE a='60.00000,123.50000' b='64.00000,127.50000' style='12' fill='11'/>
+		<ELLIPSE a='60.00000,148.50000' b='64.00000,152.50000' style='12' fill='15'/>
+		<ELLIPSE a='55.00000,148.50000' b='59.00000,152.50000' style='12' fill='18'/>
+		<ELLIPSE a='60.00000,153.50000' b='64.00000,157.50000' style='12' fill='15'/>
+		<ELLIPSE a='55.00000,153.50000' b='59.00000,157.50000' style='12' fill='15'/>
+		<ELLIPSE a='60.00000,158.50000' b='64.00000,162.50000' style='12' fill='9'/>
+		<ELLIPSE a='55.00000,158.50000' b='59.00000,162.50000' style='12' fill='15'/>
+		<ELLIPSE a='55.00000,163.50000' b='59.00000,167.50000' style='12' fill='15'/>
+		<ELLIPSE a='55.00000,168.50000' b='59.00000,172.50000' style='12' fill='15'/>
+		<ELLIPSE a='15.00000,143.50000' b='19.00000,147.50000' style='12' fill='12'/>
+		<ELLIPSE a='15.00000,138.50000' b='19.00000,142.50000' style='12' fill='12'/>
+		<ELLIPSE a='15.00000,133.50000' b='19.00000,137.50000' style='12' fill='12'/>
+		<ELLIPSE a='15.00000,128.50000' b='19.00000,132.50000' style='12' fill='18'/>
+		<ELLIPSE a='20.00000,128.50000' b='24.00000,132.50000' style='12' fill='18'/>
+		<ELLIPSE a='40.00000,153.50000' b='44.00000,157.50000' style='12' fill='15'/>
+		<ELLIPSE a='40.00000,148.50000' b='44.00000,152.50000' style='12' fill='15'/>
+		<ELLIPSE a='40.00000,158.50000' b='44.00000,162.50000' style='12' fill='14'/>
+		<POLYGON pos='12.00000,125.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='9.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='12.00000,130.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='9.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='131.40000,29.00000' style='17' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='7.70983,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='138.00000,28.00000' b='140.00000,30.00000' style='12' fill='6'/>
+		<ELLIPSE a='130.50000,28.00000' b='132.50000,30.00000' style='12' fill='6'/>
+		<TEXT pos='144.00000,30.00000' direction='3' font='4' color='000000'>Insulated wire bridge</TEXT>
+		<ELLIPSE a='123.50000,38.00000' b='125.50000,40.00000' style='12' fill='1'/>
+		<ELLIPSE a='138.00000,38.00000' b='140.00000,40.00000' style='12' fill='7'/>
+		<POLYGON pos='124.40000,39.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='14.20983,0.00000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='126.00000,37.00000' b='137.50000,41.00000' style='12' fill='36'/>
+		<TEXT pos='128.50000,40.00000' direction='3' font='4' color='000000'>R1-R2</TEXT>
+		<TEXT pos='143.00000,39.50000' direction='3' font='3' color='000000'>Resistor 330 Ohm</TEXT>
+		<ELLIPSE a='136.00000,44.00000' b='140.00000,48.00000' style='12' fill='14'/>
+		<TEXT pos='143.00000,47.00000' direction='3' font='7' color='000000'>Soldering eye</TEXT>
+		<RECTANGLE a='120.00000,76.00000' b='139.50000,51.00000' style='12' fill='21'/>
+		<TEXT pos='143.50000,54.00000' direction='3' font='9' color='000000'>7 segment display with</TEXT>
+		<ELLIPSE a='135.00000,147.00000' b='139.00000,151.00000' style='12' fill='36'/>
+		<TEXT pos='142.50000,150.00000' direction='3' font='10' color='000000'>Soldering eye</TEXT>
+		<POLYGON pos='135.00000,155.00000' style='18' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='142.50000,156.50000' direction='3' font='11' color='000000'>Conductor track</TEXT>
+		<ELLIPSE a='134.00000,159.50000' b='139.00000,164.50000' style='14' fill='0'/>
+		<RECTANGLE a='138.00000,163.50000' b='135.00000,160.50000' style='16' fill='39'/>
+		<TEXT pos='142.50000,163.00000' direction='3' font='12' color='000000'>Edge connector</TEXT>
+		<ELLIPSE a='136.00000,72.50000' b='138.00000,74.50000' style='12' fill='0'/>
+		<ELLIPSE a='136.00000,67.50000' b='138.00000,69.50000' style='12' fill='0'/>
+		<ELLIPSE a='136.00000,62.50000' b='138.00000,64.50000' style='12' fill='0'/>
+		<ELLIPSE a='136.00000,57.50000' b='138.00000,59.50000' style='12' fill='0'/>
+		<ELLIPSE a='136.00000,52.50000' b='138.00000,54.50000' style='12' fill='0'/>
+		<ELLIPSE a='121.50000,72.50000' b='123.50000,74.50000' style='12' fill='0'/>
+		<ELLIPSE a='121.50000,67.50000' b='123.50000,69.50000' style='12' fill='0'/>
+		<ELLIPSE a='121.50000,62.50000' b='123.50000,64.50000' style='12' fill='0'/>
+		<ELLIPSE a='121.50000,57.50000' b='123.50000,59.50000' style='12' fill='0'/>
+		<ELLIPSE a='121.50000,52.50000' b='123.50000,54.50000' style='12' fill='0'/>
+		<RECTANGLE a='126.00000,54.00000' b='133.50000,63.50000' style='19' fill='16'/>
+		<RECTANGLE a='126.00000,64.00000' b='133.50000,73.50000' style='19' fill='16'/>
+		<ELLIPSE a='134.00000,72.50000' b='135.50000,74.00000' style='20' fill='17'/>
+		<ELLIPSE a='83.00000,70.50000' b='84.50000,72.00000' style='20' fill='23'/>
+		<ELLIPSE a='62.50000,70.50000' b='64.00000,72.00000' style='20' fill='17'/>
+		<TEXT pos='140.00000,75.00000' direction='3' font='9' color='000000'>A</TEXT>
+		<TEXT pos='117.50000,55.00000' direction='3' font='9' color='000000'>A</TEXT>
+		<RECTANGLE a='40.00000,173.00000' b='59.50000,148.00000' style='21' fill='0'/>
+		<RECTANGLE a='59.50000,173.00000' b='79.00000,148.00000' style='21' fill='0'/>
+		<ELLIPSE a='52.50000,66.00000' b='54.00000,67.50000' style='20' fill='17'/>
+		<ELLIPSE a='72.50000,66.00000' b='74.00000,67.50000' style='20' fill='17'/>
+		<RECTANGLE a='58.50000,74.50000' b='78.00000,49.50000' style='12' fill='20'/>
+		<ELLIPSE a='74.50000,71.00000' b='76.50000,73.00000' style='12' fill='0'/>
+		<ELLIPSE a='74.50000,66.00000' b='76.50000,68.00000' style='12' fill='0'/>
+		<ELLIPSE a='74.50000,61.00000' b='76.50000,63.00000' style='12' fill='0'/>
+		<ELLIPSE a='74.50000,56.00000' b='76.50000,58.00000' style='12' fill='0'/>
+		<ELLIPSE a='74.50000,51.00000' b='76.50000,53.00000' style='12' fill='0'/>
+		<ELLIPSE a='60.00000,71.00000' b='62.00000,73.00000' style='12' fill='0'/>
+		<ELLIPSE a='60.00000,66.00000' b='62.00000,68.00000' style='12' fill='0'/>
+		<ELLIPSE a='60.00000,61.00000' b='62.00000,63.00000' style='12' fill='0'/>
+		<ELLIPSE a='60.00000,56.00000' b='62.00000,58.00000' style='12' fill='0'/>
+		<ELLIPSE a='60.00000,51.00000' b='62.00000,53.00000' style='12' fill='0'/>
+		<RECTANGLE a='64.50000,52.50000' b='72.00000,62.00000' style='19' fill='15'/>
+		<RECTANGLE a='64.50000,62.50000' b='72.00000,72.00000' style='19' fill='15'/>
+		<ELLIPSE a='72.50000,71.00000' b='74.00000,72.50000' style='20' fill='17'/>
+		<RECTANGLE a='38.50000,74.50000' b='58.00000,49.50000' style='12' fill='20'/>
+		<ELLIPSE a='54.50000,71.00000' b='56.50000,73.00000' style='12' fill='0'/>
+		<ELLIPSE a='54.50000,66.00000' b='56.50000,68.00000' style='12' fill='0'/>
+		<ELLIPSE a='54.50000,61.00000' b='56.50000,63.00000' style='12' fill='0'/>
+		<ELLIPSE a='54.50000,56.00000' b='56.50000,58.00000' style='12' fill='0'/>
+		<ELLIPSE a='54.50000,51.00000' b='56.50000,53.00000' style='12' fill='0'/>
+		<ELLIPSE a='40.00000,71.00000' b='42.00000,73.00000' style='12' fill='0'/>
+		<ELLIPSE a='40.00000,66.00000' b='42.00000,68.00000' style='12' fill='0'/>
+		<ELLIPSE a='40.00000,61.00000' b='42.00000,63.00000' style='12' fill='0'/>
+		<ELLIPSE a='40.00000,56.00000' b='42.00000,58.00000' style='12' fill='0'/>
+		<ELLIPSE a='40.00000,51.00000' b='42.00000,53.00000' style='12' fill='0'/>
+		<RECTANGLE a='44.50000,52.50000' b='52.00000,62.00000' style='19' fill='15'/>
+		<RECTANGLE a='44.50000,62.50000' b='52.00000,72.00000' style='19' fill='15'/>
+		<ELLIPSE a='52.50000,71.00000' b='54.00000,72.50000' style='20' fill='17'/>
+		<ELLIPSE a='45.00000,36.00000' b='47.00000,38.00000' style='12' fill='22'/>
+		<POLYGON pos='41.00000,92.00000' style='17' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='20.10983,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='40.00000,91.00000' b='42.00000,93.00000' style='12' fill='19'/>
+		<ELLIPSE a='60.00000,91.00000' b='62.00000,93.00000' style='12' fill='19'/>
+		<TEXT pos='143.50000,58.00000' direction='3' font='9' color='000000'>common anode</TEXT>
+		<ELLIPSE a='35.00000,128.50000' b='39.00000,132.50000' style='12' fill='14'/>
+		<ELLIPSE a='40.00000,128.50000' b='44.00000,132.50000' style='12' fill='15'/>
+		<ELLIPSE a='45.00000,128.50000' b='49.00000,132.50000' style='12' fill='18'/>
+		<ELLIPSE a='70.00000,123.50000' b='74.00000,127.50000' style='12' fill='18'/>
+		<ELLIPSE a='75.00000,128.50000' b='79.00000,132.50000' style='12' fill='18'/>
+		<ELLIPSE a='75.00000,133.50000' b='79.00000,137.50000' style='12' fill='14'/>
+		<ELLIPSE a='75.00000,138.50000' b='79.00000,142.50000' style='12' fill='18'/>
+		<ELLIPSE a='75.00000,143.50000' b='79.00000,147.50000' style='12' fill='18'/>
+		<ELLIPSE a='75.00000,163.50000' b='79.00000,167.50000' style='12' fill='15'/>
+		<ELLIPSE a='94.50000,158.00000' b='99.50000,163.00000' style='14' fill='0'/>
+		<ELLIPSE a='74.50000,163.00000' b='79.50000,168.00000' style='14' fill='0'/>
+		<ELLIPSE a='75.00000,158.50000' b='79.00000,162.50000' style='12' fill='15'/>
+		<ELLIPSE a='75.00000,153.50000' b='79.00000,157.50000' style='12' fill='14'/>
+		<ELLIPSE a='75.00000,148.50000' b='79.00000,152.50000' style='12' fill='36'/>
+		<ELLIPSE a='75.00000,168.50000' b='79.00000,172.50000' style='12' fill='14'/>
+		<POLYGON pos='76.80000,125.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,24.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='37.00000,125.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='39.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='55.00000,128.50000' b='59.00000,132.50000' style='12' fill='13'/>
+		<ELLIPSE a='50.00000,128.50000' b='54.00000,132.50000' style='12' fill='10'/>
+		<ELLIPSE a='55.00000,133.50000' b='59.00000,137.50000' style='12' fill='8'/>
+		<ELLIPSE a='55.00000,138.50000' b='59.00000,142.50000' style='12' fill='8'/>
+		<ELLIPSE a='55.00000,143.50000' b='59.00000,147.50000' style='12' fill='15'/>
+		<POLYGON pos='37.00000,130.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='56.80000,130.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.60000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='70.00000,153.50000' b='74.00000,157.50000' style='12' fill='10'/>
+		<ELLIPSE a='70.00000,148.50000' b='74.00000,152.50000' style='12' fill='10'/>
+		<ELLIPSE a='70.00000,143.50000' b='74.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='70.00000,138.50000' b='74.00000,142.50000' style='12' fill='15'/>
+		<ELLIPSE a='70.00000,133.50000' b='74.00000,137.50000' style='12' fill='15'/>
+		<ELLIPSE a='50.00000,133.50000' b='54.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,133.50000' b='49.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='40.00000,133.50000' b='44.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='35.00000,133.50000' b='39.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='30.00000,133.50000' b='34.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='25.00000,133.50000' b='29.00000,137.50000' style='12' fill='10'/>
+		<ELLIPSE a='20.00000,133.50000' b='24.00000,137.50000' style='12' fill='10'/>
+		<POLYGON pos='12.00000,135.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='39.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='71.80000,135.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='72.00000,155.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='50.00000,153.50000' b='54.00000,157.50000' style='12' fill='15'/>
+		<ELLIPSE a='50.00000,148.50000' b='54.00000,152.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,143.50000' b='54.00000,147.50000' style='12' fill='15'/>
+		<ELLIPSE a='50.00000,138.50000' b='54.00000,142.50000' style='12' fill='10'/>
+		<POLYGON pos='51.80000,135.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='52.00000,155.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='52.00000,135.40000' style='22' fill='41'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='65.00000,153.50000' b='69.00000,157.50000' style='12' fill='10'/>
+		<ELLIPSE a='65.00000,148.50000' b='69.00000,152.50000' style='12' fill='10'/>
+		<ELLIPSE a='65.00000,143.50000' b='69.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='65.00000,138.50000' b='69.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,153.50000' b='49.00000,157.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,148.50000' b='49.00000,152.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,143.50000' b='49.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,138.50000' b='49.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='20.00000,138.50000' b='24.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='25.00000,138.50000' b='29.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='30.00000,138.50000' b='34.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='35.00000,138.50000' b='39.00000,142.50000' style='12' fill='10'/>
+		<ELLIPSE a='40.00000,138.50000' b='44.00000,142.50000' style='12' fill='10'/>
+		<POLYGON pos='12.00000,140.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='34.43538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='42.00000,155.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='62.00000,155.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='46.80000,140.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,15.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='66.80000,140.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,15.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='47.00000,140.40000' style='22' fill='25'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='40.00000,143.50000' b='44.00000,147.50000' style='12' fill='15'/>
+		<ELLIPSE a='20.00000,143.50000' b='24.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='25.00000,143.50000' b='29.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='30.00000,143.50000' b='34.00000,147.50000' style='12' fill='10'/>
+		<ELLIPSE a='35.00000,143.50000' b='39.00000,147.50000' style='12' fill='10'/>
+		<POLYGON pos='12.00000,145.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='29.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='60.00000,143.50000' b='64.00000,147.50000' style='12' fill='15'/>
+		<POLYGON pos='41.80000,145.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,5.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='61.80000,145.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,5.60000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='42.00000,145.40000' style='22' fill='27'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='35.00000,158.50000' b='39.00000,162.50000' style='12' fill='35'/>
+		<ELLIPSE a='35.00000,163.50000' b='39.00000,167.50000' style='12' fill='15'/>
+		<ELLIPSE a='35.00000,168.50000' b='39.00000,172.50000' style='12' fill='15'/>
+		<ELLIPSE a='35.00000,173.50000' b='39.00000,177.50000' style='12' fill='15'/>
+		<ELLIPSE a='65.00000,158.50000' b='69.00000,162.50000' style='12' fill='15'/>
+		<ELLIPSE a='65.00000,163.50000' b='69.00000,167.50000' style='12' fill='10'/>
+		<ELLIPSE a='65.00000,168.50000' b='69.00000,172.50000' style='12' fill='10'/>
+		<ELLIPSE a='65.00000,173.50000' b='69.00000,177.50000' style='12' fill='15'/>
+		<POLYGON pos='37.00000,160.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='62.00000,160.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='36.80000,160.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,15.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='66.80000,160.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,15.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='15.00000,173.50000' b='19.00000,177.50000' style='12' fill='33'/>
+		<ELLIPSE a='20.00000,173.50000' b='24.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='25.00000,173.50000' b='29.00000,177.50000' style='12' fill='33'/>
+		<ELLIPSE a='30.00000,173.50000' b='34.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,158.50000' b='54.00000,162.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,158.50000' b='49.00000,162.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,163.50000' b='49.00000,167.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,168.50000' b='49.00000,172.50000' style='12' fill='15'/>
+		<ELLIPSE a='45.00000,173.50000' b='49.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,178.50000' b='49.00000,182.50000' style='12' fill='10'/>
+		<POLYGON pos='47.00000,160.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='9.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='46.80000,160.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='80.00000,158.50000' b='84.00000,162.50000' style='12' fill='10'/>
+		<ELLIPSE a='85.00000,158.50000' b='89.00000,162.50000' style='12' fill='15'/>
+		<ELLIPSE a='85.00000,163.50000' b='89.00000,167.50000' style='12' fill='10'/>
+		<ELLIPSE a='85.00000,168.50000' b='89.00000,172.50000' style='12' fill='10'/>
+		<ELLIPSE a='85.00000,173.50000' b='89.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='85.00000,178.50000' b='89.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='15.00000,178.50000' b='19.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='20.00000,178.50000' b='24.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='25.00000,178.50000' b='29.00000,182.50000' style='12' fill='15'/>
+		<ELLIPSE a='30.00000,178.50000' b='34.00000,182.50000' style='12' fill='34'/>
+		<ELLIPSE a='35.00000,178.50000' b='39.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='40.00000,178.50000' b='44.00000,182.50000' style='12' fill='15'/>
+		<POLYGON pos='12.00000,180.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='77.00000,160.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='9.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='86.80000,160.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='80.00000,163.50000' b='84.00000,167.50000' style='12' fill='10'/>
+		<ELLIPSE a='80.00000,168.50000' b='84.00000,172.50000' style='12' fill='10'/>
+		<ELLIPSE a='80.00000,173.50000' b='84.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='80.00000,178.50000' b='84.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='80.00000,183.50000' b='84.00000,187.50000' style='12' fill='15'/>
+		<ELLIPSE a='50.00000,183.50000' b='54.00000,187.50000' style='12' fill='10'/>
+		<POLYGON pos='76.40000,165.40000' style='18' fill='0'>
+			<POINT pos='0.10000,0.10000' arc='0'/>
+			<POINT pos='5.03538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='81.80000,165.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='50.00000,163.50000' b='54.00000,167.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,168.50000' b='54.00000,172.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,173.50000' b='54.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,178.50000' b='54.00000,182.50000' style='12' fill='10'/>
+		<POLYGON pos='51.80000,165.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='15.00000,168.50000' b='19.00000,172.50000' style='12' fill='31'/>
+		<ELLIPSE a='15.00000,188.50000' b='19.00000,192.50000' style='12' fill='31'/>
+		<ELLIPSE a='15.00000,183.50000' b='19.00000,187.50000' style='12' fill='31'/>
+		<ELLIPSE a='30.00000,183.50000' b='34.00000,187.50000' style='12' fill='10'/>
+		<ELLIPSE a='35.00000,183.50000' b='39.00000,187.50000' style='12' fill='10'/>
+		<ELLIPSE a='40.00000,183.50000' b='44.00000,187.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,183.50000' b='49.00000,187.50000' style='12' fill='10'/>
+		<ELLIPSE a='75.00000,188.50000' b='79.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='55.00000,188.50000' b='59.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='15.00000,163.50000' b='19.00000,167.50000' style='12' fill='31'/>
+		<ELLIPSE a='20.00000,188.50000' b='24.00000,192.50000' style='12' fill='31'/>
+		<ELLIPSE a='25.00000,188.50000' b='29.00000,192.50000' style='12' fill='31'/>
+		<ELLIPSE a='30.00000,188.50000' b='34.00000,192.50000' style='12' fill='31'/>
+		<ELLIPSE a='35.00000,188.50000' b='39.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='40.00000,188.50000' b='44.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='45.00000,188.50000' b='49.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='50.00000,188.50000' b='54.00000,192.50000' style='12' fill='10'/>
+		<ELLIPSE a='75.00000,173.50000' b='79.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='75.00000,178.50000' b='79.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='75.00000,183.50000' b='79.00000,187.50000' style='12' fill='10'/>
+		<POLYGON pos='76.80000,170.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='57.00000,190.40000' style='22' fill='28'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='55.00000,173.50000' b='59.00000,177.50000' style='12' fill='10'/>
+		<ELLIPSE a='55.00000,178.50000' b='59.00000,182.50000' style='12' fill='10'/>
+		<ELLIPSE a='55.00000,183.50000' b='59.00000,187.50000' style='12' fill='10'/>
+		<POLYGON pos='56.80000,170.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,20.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='47.00000,180.40000' style='22' fill='29'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='39.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='52.00000,185.40000' style='22' fill='29'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='29.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='37.00000,175.40000' style='22' fill='29'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='29.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='16.80000,180.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,10.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='12.00000,175.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='9.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='20.00000,168.50000' b='24.00000,172.50000' style='12' fill='33'/>
+		<ELLIPSE a='25.00000,168.50000' b='29.00000,172.50000' style='12' fill='33'/>
+		<POLYGON pos='12.00000,170.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='14.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='17.00000,190.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='39.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='20.00000,183.50000' b='24.00000,187.50000' style='12' fill='34'/>
+		<ELLIPSE a='25.00000,183.50000' b='29.00000,187.50000' style='12' fill='34'/>
+		<POLYGON pos='22.00000,185.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='29.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='21.80000,175.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,10.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='26.80000,170.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,10.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='32.00000,175.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='20.00000,163.50000' b='24.00000,167.50000' style='12' fill='35'/>
+		<ELLIPSE a='25.00000,163.50000' b='29.00000,167.50000' style='12' fill='35'/>
+		<ELLIPSE a='30.00000,163.50000' b='34.00000,167.50000' style='12' fill='35'/>
+		<ELLIPSE a='30.00000,168.50000' b='34.00000,172.50000' style='12' fill='35'/>
+		<POLYGON pos='12.00000,165.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='31.80000,165.40000' style='18' fill='0'>
+			<POINT pos='0.20000,0.10000' arc='0'/>
+			<POINT pos='0.13538,10.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='27.00000,180.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='19.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='52.00000,165.40000' style='18' fill='0'>
+			<POINT pos='0.00000,0.10000' arc='0'/>
+			<POINT pos='4.93538,0.10000' arc='0'/>
+		</POLYGON>
+		<RECTANGLE a='108.50000,137.00000' b='105.50000,134.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,142.00000' b='105.50000,139.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,147.00000' b='105.50000,144.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,192.00000' b='105.50000,189.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,187.00000' b='105.50000,184.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,182.00000' b='105.50000,179.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,177.00000' b='105.50000,174.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,172.00000' b='105.50000,169.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,167.00000' b='105.50000,164.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,157.00000' b='105.50000,154.00000' style='16' fill='39'/>
+		<RECTANGLE a='108.50000,152.00000' b='105.50000,149.00000' style='16' fill='39'/>
+		<RECTANGLE a='13.50000,157.00000' b='10.50000,154.00000' style='16' fill='36'/>
+		<RECTANGLE a='13.50000,187.00000' b='10.50000,184.00000' style='16' fill='39'/>
+		<RECTANGLE a='13.50000,192.00000' b='10.50000,189.00000' style='16' fill='39'/>
+		<RECTANGLE a='13.50000,162.00000' b='10.50000,159.00000' style='16' fill='39'/>
+		<ELLIPSE a='9.00000,90.00000' b='13.00000,94.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,85.00000' b='13.00000,89.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,80.00000' b='13.00000,84.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,75.00000' b='13.00000,79.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,70.00000' b='13.00000,74.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,65.00000' b='13.00000,69.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,55.00000' b='13.00000,59.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,50.00000' b='13.00000,54.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,45.00000' b='13.00000,49.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,40.00000' b='13.00000,44.00000' style='12' fill='35'/>
+		<ELLIPSE a='9.00000,35.00000' b='13.00000,39.00000' style='12' fill='35'/>
+		<POLYGON pos='7.40000,37.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,42.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,47.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,52.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,57.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,67.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,72.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,77.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,82.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,87.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='7.40000,92.00000' style='16' fill='0'>
+			<POINT pos='0.10000,0.00000' arc='0'/>
+			<POINT pos='3.53538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='106.00000,92.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='106.00000,87.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='104.00000,60.00000' b='108.00000,64.00000' style='12' fill='36'/>
+		<POLYGON pos='106.00000,62.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='135.00000,79.00000' b='139.00000,83.00000' style='12' fill='33'/>
+		<POLYGON pos='137.00000,81.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='144.00000,82.50000' direction='3' font='8' color='000000'>Side pin</TEXT>
+		<ELLIPSE a='104.00000,55.00000' b='108.00000,59.00000' style='12' fill='33'/>
+		<POLYGON pos='106.00000,57.00000' style='16' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='3.43538,0.00000' arc='0'/>
+		</POLYGON>
+		<ELLIPSE a='104.00000,45.00000' b='108.00000,49.00000' style='12' fill='36'/>
+		<ELLIPSE a='104.00000,65.00000' b='108.00000,69.00000' style='12' fill='33'/>
+		<ELLIPSE a='104.00000,70.00000' b='108.00000,74.00000' style='12' fill='33'/>
+		<RECTANGLE a='119.50000,190.50000' b='139.00000,165.50000' style='21' fill='0'/>
+		<TEXT pos='142.50000,169.00000' direction='3' font='12' color='000000'>7 segment display</TEXT>
+		<POLYGON pos='133.40000,194.40000' style='22' fill='42'>
+			<POINT pos='0.10000,0.10000' arc='0'/>
+			<POINT pos='6.03538,0.10000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='142.50000,195.50000' direction='3' font='12' color='000000'>Insulated wire bridge</TEXT>
+	</TinyCAD>
+</TinyCADSheets>

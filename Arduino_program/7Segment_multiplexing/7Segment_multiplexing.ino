@@ -1,5 +1,6 @@
 /**
- * 
+ * This Sketch is using the DIY Arduino 7 segment display shield for showing the current temperature.
+ * Important: Of course you need an additional temperature sensor.
  */
 const int AnodeUnits = 11;   // common anode pin
 const int AnodeTens = 12;   // common anode pin
